@@ -825,18 +825,16 @@ a{
     padding-bottom: 2%;
     padding: 2%;
 }
+
 #footerDescr>span{
     color: white;
     font-size: 0.9rem;
     padding: 0%;
     text-align: center;
     font-family: Nato;
-    
-}
-
-
-@media screen and (min-width:100px) and (max-width:336px){
 
 }
+
+
 
 
